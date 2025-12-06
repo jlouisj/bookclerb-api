@@ -1,0 +1,26 @@
+{
+  "name": "bookclerb",
+  "version": "1.0.0",
+  "description": "bookclub application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlouisj/bookclerb-api.git"
+  },
+  "author": "Jasmine Louis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jlouisj/bookclerb-api/issues"
+  },
+  "homepage": "https://github.com/jlouisj/bookclerb-api#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
